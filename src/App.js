@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import 'Add';
+import Add from './Add';
 
 function App() {
   return (
