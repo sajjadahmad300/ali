@@ -7,7 +7,7 @@ import Dinner from './Dinner';
 function App() {
   return (
     <div className="App">
-    <Dinner Dinner weet='Nihaari' sweet='Kheer' />/>
+    <Dinner Dinner weet='Nihaari' sweet='Kheer' />
     </div>
   );
 }
