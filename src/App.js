@@ -5,8 +5,8 @@ import Add from './Add';
 function App() {
   return (
     <div> 
-      <h1> he;;</h1>
-      <Add/>
+      <h1> well </h1>
+      <Add dishName='Nihaari' sweetDish='Kheer'/>
       </div>
   );
 }
